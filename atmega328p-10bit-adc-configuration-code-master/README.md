@@ -1,4 +1,4 @@
-# AVR ATmega328p 10 bit ADC Configuration and PC serial communication tutorial
+# AVR ATmega328p 10 bit ADC Configuration and PC serial communication 
 
  - The tutorial teaches the user to configure the 10 bit SAR ADC of ATmega328P in Embedded C and transmit the ADC result to Linux /Windows PC using USART and a USB to Serial Converter.
 
