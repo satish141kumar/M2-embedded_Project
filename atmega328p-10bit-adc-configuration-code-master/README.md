@@ -41,3 +41,8 @@
 
 # CI AND CODE QUALITY
 [Codacy badge]([![Codacy Badge](https://app.codacy.com/project/badge/Grade/26846dc3afbd4e5a8c21f83ac351f103)](https://www.codacy.com/gh/satish141kumar/M2-embedded_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=satish141kumar/M2-embedded_Project&amp;utm_campaign=Badge_Grade)
+
+
+[CODE INSPECTOR SCORE](https://api.codiga.io/project/30267/score/svg)
+
+[CODE INSPECTOR BADGE](https://api.codiga.io/project/30267/status/svg)
